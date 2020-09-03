@@ -1,1 +1,1 @@
-myGreatVarriable = ":("
+myGreatVarriable = "hello world"
