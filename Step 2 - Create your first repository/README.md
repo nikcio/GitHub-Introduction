@@ -21,6 +21,6 @@ Here you can press the New button to create your first repository.
 
 When creating a new repo there are some things you need to fill out. You need to give the repo a name and decide if it should be publicly visible or private. The rest can be added later and will be explained further in some of the next steps.
 
-![Create repository](../Assets/Images/create-repo/create-button-repo)
+![Create repository](../Assets/Images/create-repo/create-button-repo.png)
 
-Now you can move on to [Step 3 - GitHub desktop](../Step 3 - GitHub desktop/README.md)
+Now you can move on to [Step 3 - GitHub desktop](../Step%203%20-%20GitHub%20desktop/README.md)

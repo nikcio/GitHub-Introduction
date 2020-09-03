@@ -20,11 +20,11 @@ First off there's the current repository button in the top left. By clicking thi
 
 ![Clone a repository](../Assets/Images/github-desktop/clone-a-repo.png)
 
-The next important area is the Changes box on the left. This shows which files were changed since you last committed your files to the repository. Below the Changes box, we also see the box which is used for committing files to your repository. (Committing will be further explained in [Step 4 - Commiting](../Step&#32;4&#32;-&#32;Committing/README.md))
+The next important area is the Changes box on the left. This shows which files were changed since you last committed your files to the repository. Below the Changes box, we also see the box which is used for committing files to your repository. (Committing will be further explained in [Step 4 - Commiting](../Step%204%20-%20Committing/README.md))
 
 ![GitHub desktop interface](../Assets/images/github-desktop/interface.png)
 
-On the top center of GitHub Desktop, we see the Current branch button. Here we can select which branch we'll be working on. (Branches will be further explained in [Step 5 - Branches](../Step 5 - Branches/README.md))
+On the top center of GitHub Desktop, we see the Current branch button. Here we can select which branch we'll be working on. (Branches will be further explained in [Step 5 - Branches](../Step%205%20-%20Branches/README.md))
 
 The last important button is the Fetch origin button. This button has multiple uses:
 
@@ -32,4 +32,4 @@ The last important button is the Fetch origin button. This button has multiple u
 2. Pulling updates on the current repository (Downloading changes)
 3. Pushing commits to the current repository (Uploading your changes)
 
-Now that we're familliar with GitHub desktop we can move on to [Step 4 - Commiting](../Step 4 - Commiting/README.md)
+Now that we're familliar with GitHub desktop we can move on to [Step 4 - Commiting](../Step%204%20-%20Commiting/README.md)
