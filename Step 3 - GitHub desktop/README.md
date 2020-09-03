@@ -32,4 +32,4 @@ The last important button is the Fetch origin button. This button has multiple u
 2. Pulling updates on the current repository (Downloading changes)
 3. Pushing commits to the current repository (Uploading your changes)
 
-Now that we're familliar with GitHub desktop we can move on to [Step 4 - Commiting](../Step%204%20-%20Commiting/README.md)
+Now that we're familliar with GitHub desktop we can move on to [Step 4 - CommCommittingiting](../Step%204%20-%Committing/README.md)
