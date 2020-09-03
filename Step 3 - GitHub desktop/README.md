@@ -20,7 +20,7 @@ First off there's the current repository button in the top left. By clicking thi
 
 ![Clone a repository](../Assets/Images/github-desktop/clone-a-repo.png)
 
-The next important area is the Changes box on the left. This shows which files were changed since you last committed your files to the repository. Below the Changes box, we also see the box which is used for committing files to your repository. (Committing will be further explained in [Step 4 - Committing](../Step%204%20-%Committing/README.md))
+The next important area is the Changes box on the left. This shows which files were changed since you last committed your files to the repository. Below the Changes box, we also see the box which is used for committing files to your repository. (Committing will be further explained in [Step 4 - Committing](../Step%204%20-%20Committing/README.md))
 
 ![GitHub desktop interface](../Assets/Images/github-desktop/interface.png)
 
