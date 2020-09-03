@@ -27,4 +27,8 @@ When this happens you manually have to resolve the conflict. This can be done by
 
 ![Merge conflict resolved](../Assets/Images/pr/resolved.png)
 
-Finally, when all issues have been resolved you can merge your pull request into your branch by clicking the big green button and thereafter clicking Merge.
+Finally, when all issues have been resolved you can commit the merge and the pull request is created.
+
+When we're comfortable that everything is ready to merge we can click the Merge pull request button and thereafter the Confirm merge button.
+
+Now we can go to [Step 7 - Navigating the repository](../Step%207%20-%20Navigating%20the%20repository/README.md)
