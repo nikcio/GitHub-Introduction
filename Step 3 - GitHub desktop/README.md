@@ -24,7 +24,7 @@ The next important area is the Changes box on the left. This shows which files w
 
 ![GitHub desktop interface](../Assets/Images/github-desktop/interface.png)
 
-On the top center of GitHub Desktop, we see the Current branch button. Here we can select which branch we'll be working on. (Branches will be further explained in [Step 5 - Branches](../Step%205%20-%20Branches/README.md))
+On the top center of GitHub Desktop, we see the Current branch button. Here we can select which branch we'll be working on. (Branches will be further explained in [Step 5 - Branches](../Step%204%20-%20Committing/README.md))
 
 The last important button is the Fetch origin button. This button has multiple uses:
 
@@ -32,4 +32,4 @@ The last important button is the Fetch origin button. This button has multiple u
 2. Pulling updates on the current repository (Downloading changes)
 3. Pushing commits to the current repository (Uploading your changes)
 
-Now that we're familliar with GitHub desktop we can move on to [Step 4 - CommCommittingiting](../Step%204%20-%Committing/README.md)
+Now that we're familliar with GitHub desktop we can move on to [Step 4 - Committing](../Step%204%20-%20Committing/README.md)
