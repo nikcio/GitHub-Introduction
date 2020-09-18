@@ -44,3 +44,18 @@ git add .
 ```
 
 This will reset the tracked files and remove any unwanted files from your repository.
+
+
+### What is a README.md?
+The README file is a file mostly used for describing your repositories content and guiding new users to install and use your repository. Though this file isn't mandatory it can be a great place to put an installation guide so you don't have to figure out what commands you need to run to have the repository running properly.
+
+Here I've included an example from one of my repositories:
+![README-example](../Assets/Images/README-example.png)
+
+### What is the md filetype?
+As you might have noticed is the README file is written with a .md extension at the end. Which means the file is written in a language called Markdown. 
+The Markdown language is standard for GitHub and is commonly used when writing non-coding files. The Markdown language is mostly written in plain text but offers the ability to show images, link to files, and much more.
+To learn the Markdown syntax visit: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+Now that we know of these two common files for Git we can move on to workflows: [Step 9 - Gitflow](../Step%209%20-%20Gitflow/README.md)
