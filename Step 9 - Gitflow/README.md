@@ -28,7 +28,7 @@ In example 3 we see that both features 1 and 2 can be developed simultaneously a
 
 In this last example we see the most complex workflow I'm going to show you. Here we see that a hotfix branch is being branched off of the master branch. This is normally done when an unexpected error is found in the production version (I.E the master branch). Here it's crucial that the hotfix is also merged with the development branch so the error doesn't appear later on.
 
-![Git flow example 4](../Assets/Images/git-flow/Git%20flow%20example%204.png)
+![Git flow example 4](../Assets/Images/gitflow/Git%20flow%20example%204.png)
 
 
 ### If you'd like to see a more complex workflow or would like a different explanation then I'd recommend this video: [Git flow video](https://www.youtube.com/watch?v=aJnFGMclhU8)
